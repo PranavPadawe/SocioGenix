@@ -1,3 +1,3 @@
-# SocioGenix
+# Twitter-Clone
 
 Clone of Twitter
